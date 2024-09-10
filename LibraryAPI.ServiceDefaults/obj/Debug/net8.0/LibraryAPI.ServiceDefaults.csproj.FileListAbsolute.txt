@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\PB-201\API\LibraryAPI\LibraryAPI.ServiceDefaults\bin\Debug\net8.0\LibraryAPI.ServiceDefaults.deps.json
+C:\Users\user\Desktop\PB-201\API\LibraryAPI\LibraryAPI.ServiceDefaults\bin\Debug\net8.0\LibraryAPI.ServiceDefaults.dll
+C:\Users\user\Desktop\PB-201\API\LibraryAPI\LibraryAPI.ServiceDefaults\bin\Debug\net8.0\LibraryAPI.ServiceDefaults.pdb
+C:\Users\user\Desktop\PB-201\API\LibraryAPI\LibraryAPI.ServiceDefaults\obj\Debug\net8.0\LibraryAPI.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PB-201\API\LibraryAPI\LibraryAPI.ServiceDefaults\obj\Debug\net8.0\LibraryAPI.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB-201\API\LibraryAPI\LibraryAPI.ServiceDefaults\obj\Debug\net8.0\LibraryAPI.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB-201\API\LibraryAPI\LibraryAPI.ServiceDefaults\obj\Debug\net8.0\LibraryAPI.ServiceDefaults.AssemblyInfo.cs
+C:\Users\user\Desktop\PB-201\API\LibraryAPI\LibraryAPI.ServiceDefaults\obj\Debug\net8.0\LibraryAPI.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB-201\API\LibraryAPI\LibraryAPI.ServiceDefaults\obj\Debug\net8.0\LibraryAPI.ServiceDefaults.dll
+C:\Users\user\Desktop\PB-201\API\LibraryAPI\LibraryAPI.ServiceDefaults\obj\Debug\net8.0\refint\LibraryAPI.ServiceDefaults.dll
+C:\Users\user\Desktop\PB-201\API\LibraryAPI\LibraryAPI.ServiceDefaults\obj\Debug\net8.0\LibraryAPI.ServiceDefaults.pdb
+C:\Users\user\Desktop\PB-201\API\LibraryAPI\LibraryAPI.ServiceDefaults\obj\Debug\net8.0\ref\LibraryAPI.ServiceDefaults.dll

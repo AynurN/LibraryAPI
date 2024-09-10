@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\desktop\\pb-201\\api\\libraryapi\\libraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\desktop\\pb-201\\api\\libraryapi\\libraryapi\\dtos\\book\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\dtos\\book\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\desktop\\pb-201\\api\\libraryapi\\libraryapi\\dtos\\book\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\dtos\\book\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\desktop\\pb-201\\api\\libraryapi\\libraryapi\\dtos\\book\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\dtos\\book\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\desktop\\pb-201\\api\\libraryapi\\libraryapi\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\desktop\\pb-201\\api\\libraryapi\\libraryapi\\dtos\\genregetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\dtos\\genregetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\desktop\\pb-201\\api\\libraryapi\\libraryapi\\dtos\\genreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\dtos\\genreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\desktop\\pb-201\\api\\libraryapi\\libraryapi\\libraryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE7DA744-5959-4B42-B3DA-C3DB96481320}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\libraryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\DTOs\\Book\\BookUpdateDTO.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\DTOs\\Book\\BookUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\DTOs\\Book\\BookUpdateDTO.cs*",
+              "RelativeToolTip": "LibraryAPI\\DTOs\\Book\\BookUpdateDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:34:45.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\DTOs\\Book\\BookCreateDTO.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\DTOs\\Book\\BookCreateDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\DTOs\\Book\\BookCreateDTO.cs*",
+              "RelativeToolTip": "LibraryAPI\\DTOs\\Book\\BookCreateDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:32:21.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\DTOs\\Book\\BookGetDTO.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\DTOs\\Book\\BookGetDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\DTOs\\Book\\BookGetDTO.cs*",
+              "RelativeToolTip": "LibraryAPI\\DTOs\\Book\\BookGetDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:31:39.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenreGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\DTOs\\GenreGetDTO.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\DTOs\\GenreGetDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\DTOs\\GenreGetDTO.cs",
+              "RelativeToolTip": "LibraryAPI\\DTOs\\GenreGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:27:34.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:54:09.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\BooksController.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:25:14.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenreUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\DTOs\\GenreUpdateDTO.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\DTOs\\GenreUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\DTOs\\GenreUpdateDTO.cs",
+              "RelativeToolTip": "LibraryAPI\\DTOs\\GenreUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:10:29.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryAPI",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+              "RelativeDocumentMoniker": "LibraryAPI\\LibraryAPI.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PB-201\\API\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+              "RelativeToolTip": "LibraryAPI\\LibraryAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T04:26:07.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
